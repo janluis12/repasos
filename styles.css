@@ -1,0 +1,27 @@
+
+
+.navigator-menu{
+    width: 100%;
+    background-color: darkorchid;
+    /* padding: auto; */
+    
+    
+}
+
+.menu-item{
+    padding: 40px;
+    display: flex;
+    list-style: none;
+    
+}
+
+.item{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+
+.item:hover{
+    background-color: cadetblue;
+    border-radius: 10px;
+}
